@@ -3,5 +3,3 @@ def divide(first, second):
         return 'Ошибка'
     else:
         return first / second
-
-a = 5
